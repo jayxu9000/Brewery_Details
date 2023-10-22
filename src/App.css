@@ -79,3 +79,7 @@ li:nth-child(even) {
   border-radius: 5px;
   outline: none;
 }
+
+.barChart h2, .breweryList h2 {
+  color: #333;
+}
