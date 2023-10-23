@@ -83,3 +83,7 @@ li:nth-child(even) {
 .barChart h2, .breweryList h2 {
   color: #333;
 }
+
+.breweryDetails {
+  color: #333
+}
