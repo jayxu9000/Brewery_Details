@@ -1,27 +1,24 @@
-# Web Development Project 5 - *Breweries API*
+# Web Development Project 6 - *Data Dashboard Pt2*
 
 Submitted by: **Yuanjie Xu**
 
-This web app: **Check out breweries from an API**
+This web app: **List of Breweries and further details.**
 
-Time spent: **3** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ X ] **The list displays a list of data fetched using an API call**
-- [ X ] **Data uses the useEffect React hook and async/await syntax**
-- [ X ] **The app dashboard includes at least three summary statistics about the data such as**
-  - [ X ] *Number of breweries, most frequent brewery occurence, state with most breweries*
-- [ X ] **A search bar allows the user to search for an item in the fetched data**
-- [ X ] **Multiple different filters (2+) allow the user to filter items in the database by specified categories**
+- [ X ] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
+- [ X ] **Clicking on an item in the list view displays more details about it**
+- [ X ] **Clicking on an item has a direct, unique link to that item's detail view page**
+
 
 The following **optional** features are implemented:
 
-- [ ] Multiple filters can be applied simultaneously
-- [ ] Filters use different input types such as a text input, a selection, or a slider
-- [ ] The user can enter specific bounds for filter values
+- [ ] The site's customized dashboard contains more content that explains what is interesting about the data
+- [ ] The site allows users to toggle between different data visualizations
 
 The following **additional** features are implemented:
 
@@ -31,13 +28,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/IhgCtTX.gif' title='Project 5_Walkthrough_Yuanjie Xu' width='' alt='Project 5_Walkthrough_Yuanjie Xu' />
-
-GIF created with LICEcap
+<img src='https://imgur.com/a/0TXJ1UZ.gif' title='Project 6_Walkthrough_Yuanjie Xu' width='' alt='Project 6_Walkthrough_Yuanjie Xu' />
 
 ## Notes
 
-Assignment similar to last. Working with APIs are still a little difficult but getting more used to it.
+The API I selected was pretty difficult to work with due to my lack of experience with using APIs.
 
 ## License
 
