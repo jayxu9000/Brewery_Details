@@ -10,7 +10,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-(Also located in the repository if you are unable to view here>
+(Also located in the repository if you are unable to view here)
 
 <img src='https://imgur.com/a/0TXJ1UZ.gif' title='Project 6_Walkthrough_Yuanjie Xu' width='' alt='Project 6_Walkthrough_Yuanjie Xu' />
 
