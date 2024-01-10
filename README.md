@@ -1,38 +1,18 @@
-# Web Development Project 6 - *Data Dashboard Pt2*
+# Brewery Details
 
-Submitted by: **Yuanjie Xu**
+## Highlight Features
 
-This web app: **List of Breweries and further details.**
-
-Time spent: **10** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [ X ] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
-- [ X ] **Clicking on an item in the list view displays more details about it**
-- [ X ] **Clicking on an item has a direct, unique link to that item's detail view page**
-
-
-The following **optional** features are implemented:
-
-- [ ] The site's customized dashboard contains more content that explains what is interesting about the data
-- [ ] The site allows users to toggle between different data visualizations
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
+**The site includes unique charts developed using the fetched data that expands on the brewery data.**
+**Clicking on a brewery in the brewery list displays more details about it**
+**Clicking on a brewery in the brewery list has a direct, unique link to that item's detail view page**
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
+(Also located in the repository if you are unable to view here>
+
 <img src='https://imgur.com/a/0TXJ1UZ.gif' title='Project 6_Walkthrough_Yuanjie Xu' width='' alt='Project 6_Walkthrough_Yuanjie Xu' />
-
-## Notes
-
-The API I selected was pretty difficult to work with due to my lack of experience with using APIs.
 
 ## License
 
